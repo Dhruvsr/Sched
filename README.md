@@ -1,2 +1,3 @@
-# neevhacks-2022-nextgen
- 
+# Sched
+The all-in-one scheduling app.
+
